@@ -1,0 +1,12 @@
+[project]
+logopath = "project_logo.png"
+description = "Simple Gateway that passes throug all CAN Frames from CAN1 to CAN2"
+
+[project.status]
+text = "example"
+color = "green"
+
+[automation]
+type = "manual"
+active = true
+mode = "powerup"
